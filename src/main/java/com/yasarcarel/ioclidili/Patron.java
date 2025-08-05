@@ -1,6 +1,8 @@
 package com.yasarcarel.ioclidili;
 
-@Component
+import javax.enterprise.context.ApplicationScoped;
+
+@ApplicationScoped
 public class Patron implements PatronInterface {
 
     @Override
