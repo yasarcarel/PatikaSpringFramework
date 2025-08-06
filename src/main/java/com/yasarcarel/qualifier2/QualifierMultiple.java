@@ -1,4 +1,4 @@
-package com.yasarcarel.qualifier;
+package com.yasarcarel.qualifier2;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.*;

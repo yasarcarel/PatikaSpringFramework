@@ -1,4 +1,4 @@
-package com.yasarcarel.qualifier;
+package com.yasarcarel.qualifier2;
 
 import javax.enterprise.context.ApplicationScoped;
 

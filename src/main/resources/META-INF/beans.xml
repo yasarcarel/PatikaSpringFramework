@@ -6,7 +6,7 @@
        bean-discovery-mode="all">
 
     <alternatives>
-<!--        <class>com.yasarcarel.alternative.Patron1</class>-->
-        <class>com.yasarcarel.alternative.Patron2</class>
+        <class>com.yasarcarel.alternative.Patron1</class>
+<!--        <class>com.yasarcarel.alternative.Patron2</class>-->
     </alternatives>
 </beans>

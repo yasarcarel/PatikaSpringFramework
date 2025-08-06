@@ -1,4 +1,4 @@
-package com.yasarcarel.qualifier;
+package com.yasarcarel.qualifier2;
 
 public interface PatronInterface {
 
