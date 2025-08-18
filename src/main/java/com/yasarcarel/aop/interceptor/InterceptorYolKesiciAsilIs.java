@@ -27,6 +27,10 @@ public class InterceptorYolKesiciAsilIs {
                 e.printStackTrace();
             }
             return isContinue;
+
+            //INTERCEPTOR programın akışında keskler oluşturup bu
+            // aralarda login , security gibi olayları kontrol
+            // etmemize yarar.
         }
     }
 }
