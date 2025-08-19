@@ -6,14 +6,12 @@
       xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
       xmlns:f="http://xmlns.jcp.org/jsf/core">
 <h:head>
-    <title> AOP (stereotype) </title>
+    <title> AOP (decorator) </title>
 </h:head>
 <h:body>
 
     <h:form>
-        <h:outputText value=" #{stereoTypeBean.id}" />
-        <br></br>
-        <h:outputText value=" #{stereoTypeBean.name}" />
+        <h:outputText value=" #{decoratorBean.beanMethod('ekmek')}" />
     </h:form>
 </h:body>
 </html>

@@ -16,4 +16,10 @@
     <interceptors>
         <class>com.yasarcarel.aop.interceptor.InterceptorYolKesiciAsilIs</class>
     </interceptors>
+
+<!--decorator-->
+    <decorators>
+        <class>com.yasarcarel.aop.decorator.EvDecorator</class>
+    </decorators>
+
 </beans>
