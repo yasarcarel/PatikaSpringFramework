@@ -14,6 +14,6 @@ public class JsfBean {
     private String patika;
 
     public JsfBean() {
-        this.patika="Spring Boot Eğitimine Hoşgeldiniz";
+        this.patika="Spring Boot Eğitimine Hoşgeldiniz ";
     }
 }
