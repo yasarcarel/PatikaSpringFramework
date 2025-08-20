@@ -11,9 +11,9 @@ import javax.inject.Named;
 @Setter @Getter
 public class JsfBean {
 
-    private String patika;
+    private String spring;
 
     public JsfBean() {
-        this.patika="Spring Boot Eğitimine Hoşgeldiniz ";
+        this.spring ="Spring Main Index ";
     }
 }
